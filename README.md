@@ -1,12 +1,12 @@
-#README
-Description: 
-This is a python application developed for classifying SmartHome gestures. It is used for training and testing a CNN model for hand gestures, and applying pre-trained machine learning model usage for classification. 
+# SmartHome: a Python Application developed for classifying SmartHome gestures. 
+## It is used for training and testing a CNN model for hand gestures, and applying pre-trained machine learning model usage for classification. 
 
-Project Setup:
+## Project Setup:
 This project is developed by Python 3.8. Library needed:
 1. TensorFlow 
 2. OpenCV
 3. Keras
+
 
 To run this application on local machine, please make sure:
 1. Test videos are saved under test folder
